@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TH2Android</string>
+    <string-array name="publisher">
+        <item>giao duc</item>
+        <item>khoa hoc xa hoi</item>
+        <item>buu dien</item>
+        <item>thong ke</item>
+    </string-array>
+</resources>
